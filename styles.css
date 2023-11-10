@@ -12,3 +12,8 @@ h1 {
 p {
     color: #ffffff;
 }
+
+h2 {
+    color: azure;
+    font-style: italic;
+}
