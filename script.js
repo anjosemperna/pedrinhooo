@@ -3,5 +3,5 @@ function mudarTexto() {
 }
 
 function mudarText() {
-    document.getElementById("sao paulo").innerHTML = "ihaaaaaaaaaaaaaaaa";
+    document.getElementById("saopaulo").innerHTML = "ihaaaaaaaaaaaaaaaa";
 }
