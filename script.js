@@ -2,7 +2,7 @@ function mudarTexto() {
     document.getElementById("demo").innerHTML = "Texto alterado!";
 }
 
-function mudarText() {
+function alert() {
     alert("São Paulo é o maior");
 
 }
