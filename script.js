@@ -3,5 +3,6 @@ function mudarTexto() {
 }
 
 function mudarText() {
-    document.getElementById("saopaulo").innerHTML = "ihaaaaaaaaaaaaaaaa";
+    alert("São Paulo é o maior");
+
 }
